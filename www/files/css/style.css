@@ -701,12 +701,11 @@ footer #backtotop {
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 	color: #0d0d0d;
-	width: 56px;
 	height: 20px;
 	line-height: 20px;
 	position: absolute;
 	top: 50%; margin-top: -10px;
-	left: 50%; margin-left: -27px;
+	left: 50%; margin-left: -90px;
 	}
 	
 footer #backtotop:after {
